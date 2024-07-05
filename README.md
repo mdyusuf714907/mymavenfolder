@@ -1,3 +1,2 @@
 # mymavenfolder
-first commit
-second commit
+First Commit
